@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">serialport</string>
+    <string name="request_version_error">请求版本失败</string>
+
+</resources>
